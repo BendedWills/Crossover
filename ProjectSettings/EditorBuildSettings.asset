@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: 4b93ab2649190a718a24a24540ffba8d
+  - enabled: 1
+    path: Assets/Scenes/Levitation.unity
+    guid: c27336bc8e1750dbc9773e29792a5108
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e29a9c031d561145abfd902d864edb2e, type: 2}
